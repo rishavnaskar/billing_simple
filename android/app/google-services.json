@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "905279084203",
+    "firebase_url": "https://pareez-billing.firebaseio.com",
+    "project_id": "pareez-billing",
+    "storage_bucket": "pareez-billing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905279084203:android:5f7b50adb282652982c9ee",
+        "android_client_info": {
+          "package_name": "com.rishav.pareezblling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905279084203-q9j8nfeqecd7jrbv92qljebntl55qp0n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rishav.pareezblling",
+            "certificate_hash": "62ed11ed1e88d582abe7306e8aa84a59e9a2fe12"
+          }
+        },
+        {
+          "client_id": "905279084203-p5udp2uc2g48cr8pfghpetmfr5f7qje0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-EBa6z6faNDUVgtIIlyRgwszLAllgTuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905279084203-p5udp2uc2g48cr8pfghpetmfr5f7qje0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
